@@ -26,7 +26,7 @@ Analýza výrobních dat zaměřená na:
 
 ---
 
-### 📈 Sales & Customer Analytics
+### 📈 Sales & Customer Analytics - **Naplánováno/WIP**
 Analýza obchodních a zákaznických dat:
 - prodejní výkonnost
 - funnel
