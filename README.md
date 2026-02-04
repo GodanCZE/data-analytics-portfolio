@@ -65,5 +65,5 @@ Prezentovat schopnost:
 **Matěj Vlček**  
 Data / Business / Manufacturing Analytics  
 
-[LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-vl%C4%8Dek-2900a0142/)
+[LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-vl%C4%8Dek-2900a0142/)  
 [GitHub](https://github.com/GodanCZE/)
