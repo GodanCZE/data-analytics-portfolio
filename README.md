@@ -13,35 +13,21 @@ Cílem portfolia je demonstrovat schopnost převádět reálné business a provo
 
 ## 📁 Projekty
 
-### 🏭 Manufacturing Performance Analytics
-Analýza výrobních dat zaměřená na:
-- efektivitu výroby
-- OEE
-- prostoje
-- bottlenecky
-- kvalitu výroby
-- výkon linek
+### 🏭 Sales & Supply Chain Analysis - Citi Bike
+Analýza Sales dat zaměřená na:
+- 
+- 
+- 
+- 
 
-📂 `/manufacturing_analysis`
-
----
-
-### 📈 Sales & Customer Analytics - **Naplánováno/WIP**
-Analýza obchodních a zákaznických dat:
-- prodejní výkonnost
-- funnel
-- segmentace
-- chování zákazníků
-- business KPI
-
-📂 `/sales_analysis`
+📂 `/citi_bike`
 
 ---
 
 ## 🧰 Použitý stack
 
 - SQL  
-- Python (pandas, numpy, matplotlib)  
+- Python (pandas)  
 - Power BI  
 - Data Modeling  
 - Business Analytics  
